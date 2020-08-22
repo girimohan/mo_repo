@@ -8,4 +8,4 @@ this is the sample readme file for our github example file
 
 ## link
 
-[code](google.com)
+[code](http//www.google.com)
